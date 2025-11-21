@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, D:/digital lab/EXPERIMENT 2/boolean_function.v
+source_file = 1, D:/digital lab/EXPERIMENT 2/db/boolean_function.cbx.xml
+design_name = boolean_function
+instance = comp, \C~I , C, boolean_function, 1
+instance = comp, \A~I , A, boolean_function, 1
+instance = comp, \D~I , D, boolean_function, 1
+instance = comp, \B~I , B, boolean_function, 1
+instance = comp, \F1~0 , F1~0, boolean_function, 1
+instance = comp, \X~I , X, boolean_function, 1
+instance = comp, \Y~I , Y, boolean_function, 1
+instance = comp, \W~I , W, boolean_function, 1
+instance = comp, \Z~I , Z, boolean_function, 1
+instance = comp, \F2~0 , F2~0, boolean_function, 1
+instance = comp, \F1~I , F1, boolean_function, 1
+instance = comp, \F2~I , F2, boolean_function, 1

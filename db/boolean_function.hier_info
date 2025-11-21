@@ -1,0 +1,37 @@
+|boolean_function
+A => x2.IN0
+A => x4.IN0
+A => x1.IN0
+B => x4.IN1
+B => x5.IN0
+B => x3.IN0
+B => x1.IN1
+C => x3.IN1
+C => x4.IN1
+C => x5.IN1
+C => x2.IN1
+C => x1.IN1
+D => x4.IN1
+D => x5.IN1
+D => x3.IN1
+D => x2.IN1
+D => x1.IN1
+W => x9.IN0
+W => x10.IN0
+W => x8.IN0
+X => x6.IN0
+X => x8.IN1
+X => x10.IN1
+X => x9.IN1
+X => x7.IN0
+Y => x8.IN1
+Y => x9.IN1
+Y => x10.IN1
+Y => x7.IN1
+Y => x6.IN1
+Z => x6.IN1
+Z => x7.IN1
+F1 <= F1.DB_MAX_OUTPUT_PORT_TYPE
+F2 <= F2.DB_MAX_OUTPUT_PORT_TYPE
+
+
